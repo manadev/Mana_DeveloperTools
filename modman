@@ -1,0 +1,4 @@
+code                                            app/code/local/Mana/DeveloperTools
+module.xml                                      app/etc/modules/Mana_DeveloperTools.xml
+translate.csv                                   app/locale/en_US/Mana_DeveloperTools.csv
+rewrite/Mage_Core_Block_Template.php            app/code/local/Mage/Core/Block/Template.php
