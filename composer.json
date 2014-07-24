@@ -1,0 +1,10 @@
+{
+    "name": "manadev/Mana_DeveloperTools",
+    "type": "magento-module",
+    "description": "Developer tools for Magento. Currently includes a fix for Magento for better symlink processing",
+    "license": "OSL 3.0",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "minimum-stability": "dev"
+}
